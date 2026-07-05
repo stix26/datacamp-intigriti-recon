@@ -1,0 +1,12 @@
+https://profiles-api.datacamp.com
+https://app.datacamp.com/certification
+https://app.datacamp.com/groups
+https://app.datacamp.com/learn
+https://assessment-api.datacamp.com
+https://assessment-v2.datacamp.com
+https://assessment.datacamp.com
+https://campus.datacamp.com
+https://practice.datacamp.com
+https://projects.datacamp.com
+https://www.datacamp.com
+https://www.datacamp.com/datalab

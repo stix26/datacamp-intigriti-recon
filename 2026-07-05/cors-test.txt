@@ -1,0 +1,9 @@
+https://assets.datacamp.com -> access-control-allow-origin: *
+https://cdn.datacamp.com -> access-control-allow-origin: *
+https://links.datacamp.com -> access-control-allow-origin: *
+https://llm-proxy.optima.datacamp.com -> access-control-allow-origin: https://evil.com
+https://promo.datacamp.com -> access-control-allow-origin: *
+https://signature.datacamp.com -> access-control-allow-origin: *
+https://trust.datacamp.com -> access-control-allow-origin: *
+https://videos.datacamp.com -> access-control-allow-origin: *; access-control-expose-headers: Access-Control-Allow-Origin
+https://waffles.datacamp.com -> access-control-allow-origin: *
